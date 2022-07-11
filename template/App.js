@@ -638,7 +638,7 @@ class App extends Component {
       PermissionsAndroid.PERMISSIONS.ACCESS_FINE_LOCATION,
     );
 
-    if (){
+    if (enableContacts) {
         let contacts = PermissionsAndroid.check(
           PermissionsAndroid.PERMISSIONS.READ_CONTACTS,
         );
