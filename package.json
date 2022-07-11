@@ -2,7 +2,7 @@
   "name": "air-native-template-full",
   "version": "1.0.0",
   "description": "React Native Template",
-  "repository": "git@github.com:zqdevelopment/RNTemplateFull.git",
+  "repository": "git@github.com:AirNative/RNTemplateFull.git",
   "author": "Dmitrii Vasiliev <slimecube98@gmail.com>",
   "license": "MIT"
 }
